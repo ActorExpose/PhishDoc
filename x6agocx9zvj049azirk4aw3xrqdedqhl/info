@@ -1,0 +1,32 @@
+{type: "file", id: "519710880955", etag: "1",…}
+authenticated_download_url: "https://public.boxcloud.com/api/2.0/files/519710880955/content"
+etag: "1"
+extension: "pdf"
+file_version: {type: "file_version", id: "550421092555", sha1: "713dcaf8792b92069e901920bc9c73a7c65927ce"}
+id: "550421092555"
+sha1: "713dcaf8792b92069e901920bc9c73a7c65927ce"
+type: "file_version"
+id: "519710880955"
+is_download_available: true
+name: "SharePoint.pdf"
+permissions: {can_download: true, can_preview: true, can_upload: false, can_comment: true, can_rename: false,…}
+can_annotate: false
+can_comment: true
+can_delete: false
+can_download: true
+can_invite_collaborator: false
+can_preview: true
+can_rename: false
+can_set_share_access: false
+can_share: false
+can_upload: false
+can_view_annotations_all: true
+can_view_annotations_self: true
+representations: {,…}
+entries: [{representation: "jpg", properties: {dimensions: "1024x1024", paged: "false", thumb: "false"},…},…]
+sha1: "713dcaf8792b92069e901920bc9c73a7c65927ce"
+shared_link: null
+size: 113160
+type: "file"
+watermark_info: {is_watermarked: false}
+is_watermarked: false
